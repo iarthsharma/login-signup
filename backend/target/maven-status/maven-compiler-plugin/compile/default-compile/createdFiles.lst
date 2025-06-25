@@ -1,0 +1,4 @@
+com\example\loginsignup\LoginsignupApplication.class
+com\example\loginsignup\repository\UserRepository.class
+com\example\loginsignup\model\User.class
+com\example\loginsignup\controller\UserController.class
